@@ -4,7 +4,7 @@ Nos foi proposto 15 questões de programação para testar nosso entendimento du
 
 ### Pré requisitos
 1. Ter o [Node.js](https://nodejs.org/) instalado em seu computador
-2. Após isso execute o comando `npm install prompt-sync` para os dados do terminal poderem ser lidos
+2. Após isso execute o comando `npm install prompt-sync` em um terminal CMD para os dados do terminal poderem ser lidos
 
 ### Conteúdo abordado
 * Lógica básica de programação
